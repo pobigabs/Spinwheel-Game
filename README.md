@@ -15,7 +15,7 @@ To run the Spinning Wheel Web Application locally, follow these steps:
 
 1. Clone the repository:
    ```
-   git clone https://github.com/your-username/spinning-wheel.git
+   git clone https://github.com/pobigabs/Spinwheel-Game.git
    ```
 
 2. Navigate to the project directory:
